@@ -31,3 +31,6 @@ The purpose of this analysis is to define and determine what months of the year 
 
 
 ## Summary
+Going by the data presented by each images, the most business comes from a male, subscriber base, rather than either female customers or subscribers. The busiest times according to the images indicate that early morning and early evening are the times the subscriber base is most active. Possibly, this demographic is using the bike sharing service to commute to and from work or as a method of exercise. 
+
+Two additional analyses could be to determine the age of the male/subscriber demographic specifically, as well as comparing the top starting and ending locations with the bikes that are most used, which could indicate whether there would be a need to provide more bikes to those areas as the populations there could be influenced by their peers to also use the bike service.

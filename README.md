@@ -28,3 +28,6 @@ The purpose of this analysis is to define and determine what months of the year 
 
 * Image depicting the duration of trips by the subscriber status as well as gender by weekday.
 [pic7](pic7.png)
+
+
+## Summary

@@ -9,25 +9,25 @@ The purpose of this analysis is to define and determine what months of the year 
 ## Results
 
 * Image depicting the top starting locations for bike sharing.
-[pic1](pic1.png)
+![pic1](pic1.png)
 
 * Image depicting which bikes (by individual id) are most used.
-[pic2](pic2.png)
+![pic2](pic2.png)
 
 * Image depicting the average amount of time each user used a bike.
-[pic3](pic3.png)
+![pic3](pic3.png)
 
 * Image depicting the average duration of each ride by gender.
-[pic4](pic4.png)
+![pic4](pic4.png)
 
 * Image depicting the duration of trips by each hour of the day by weekday.
-[pic5](pic5.png)
+![pic5](pic5.png)
 
 * Image depicting the duration of trips by each hour of the day by weekday by gender.
-[pic6](pic6.png)
+![pic6](pic6.png)
 
 * Image depicting the duration of trips by the subscriber status as well as gender by weekday.
-[pic7](pic7.png)
+![pic7](pic7.png)
 
 
 ## Summary
